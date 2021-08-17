@@ -1,0 +1,27 @@
+{
+  "microserviceName": "CartService",
+  "clientRootFolder": "CartService",
+  "databaseType": "sql",
+  "fields": [
+    {
+      "fieldName": "product_id",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "user_id",
+      "fieldType": "Long"
+    },
+    {
+      "fieldName": "dateTime",
+      "fieldType": "ZonedDateTime"
+    }
+  ],
+  "relationships": [],
+  "service": "serviceClass",
+  "dto": "mapstruct",
+  "jpaMetamodelFiltering": false,
+  "readOnly": false,
+  "pagination": "no",
+  "name": "Cart",
+  "changelogDate": "20210817182853"
+}

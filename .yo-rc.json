@@ -36,6 +36,8 @@
     "nativeLanguage": "en",
     "packageFolder": "com/mycompany/myapp",
     "jwtSecretKey": "NjhjNjdkYjgwYWFlODhjNDZjZjBjYmUyMGUwM2E2OTE3OWQ3ZjNkMzhmZDFiOWFjYWFiYjVmNDE5MzEzYTQwNjQxZWQyZmM0YTZmODZlMGQ0ZTQ0NjdkMWM3MzZiZDM4ZDFjOGNhYjkyYTZjNTA4NGM1ZTI5NGYzODM3YjY1MTc=",
-    "languages": ["en", "fr"]
+    "languages": ["en", "fr"],
+    "lastLiquibaseTimestamp": 1629224933000,
+    "entities": ["Cart"]
   }
 }
