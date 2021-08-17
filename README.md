@@ -1,5 +1,7 @@
 # CartService
 
+[![GitHub issues](https://img.shields.io/github/issues/Research-Methedolgy-Project/Readme-File)](https://github.com/Research-Methedolgy-Project/Readme-File/issues) [![GitHub forks](https://img.shields.io/github/forks/Research-Methedolgy-Project/Readme-File)](https://github.com/Research-Methedolgy-Project/Readme-File/network)
+
 This is a "microservice" application intended to be part of a microservice architecture.
 
 This application is configured for Service Discovery and Configuration with Consul. On launch, it will refuse to start if it is not able to connect to Consul at [http://localhost:8500](http://localhost:8500). For more information, read our documentation on Service Discovery and Configuration with Consul.
